@@ -10,3 +10,14 @@ Yöntem: Her bir egzersiz için en çok izlenen 50 video toplandı. Bu verilerle
 
 Bulgular (Sonuçlar): Analizlerimize göre, push-up egzersizi en yüksek toplam izlenme sayısına ulaşmıştır. Bu da, YouTube'da bu konunun en çok ilgi çeken konuların başında geldiğini gösterir.
 
+### Görselleştirme
+
+Projemizde, elde ettiğimiz verileri daha iyi anlatmak için aşağıdaki görselleştirmeleri kullandık:
+
+#### Egzersizlere Göre Toplam İzlenme Sayıları
+
+![Egzersizlere Göre Toplam İzlenme Sayıları](toplam_izlenme_cubuk_grafik.png)
+
+#### Egzersizlere Göre Yüzdesel İzlenme Oranları
+
+![Egzersizlere Göre Yüzdesel İzlenme Oranları](yuzdesel_izlenme_pasta_grafik.png)
