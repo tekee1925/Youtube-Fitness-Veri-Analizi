@@ -16,10 +16,8 @@ Projemizde, elde ettiğimiz verileri daha iyi anlatmak için aşağıdaki görse
 
 #### Egzersizlere Göre Toplam İzlenme Sayıları
 
-![Egzersizlere Göre Toplam İzlenme Sayıları](cubuk_grafik.png))
+![](Grafikler/cubuk_grafik.png)
 
 #### Egzersizlere Göre Yüzdesel İzlenme Oranları
 
-![Egzersizlere Göre Yüzdesel İzlenme Oranları](pasta_grafik.png)
-
-)
+![](Grafikler/pasta_grafik.png)
